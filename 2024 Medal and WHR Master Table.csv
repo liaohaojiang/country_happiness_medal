@@ -1,0 +1,81 @@
+﻿world_region,country_code,country,ccj_id,Gold,Silver,Bronze,total_medals,Ladder score,upperwhisker,lowerwhisker,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual
+Central and Eastern Europe,ALB,Albania,ccj2,0,0,2,2,5.304,5.44,5.168,1.438,0.924,0.638,0.69,0.138,0.049,1.428
+Middle East and North Africa,DZA,Algeria,ccj3,2,0,1,3,5.364,5.476,5.251,1.324,1.191,0.568,0.247,0.091,0.2,1.743
+Latin America and Caribbean,ARG,Argentina,ccj5,1,1,1,3,6.188,6.306,6.07,1.562,1.381,0.585,0.681,0.087,0.08,1.812
+Commonwealth of Independent States,ARM,Armenia,ccj6,0,3,1,4,6.188,6.306,6.07,1.562,1.381,0.585,0.681,0.087,0.08,1.812
+North America and ANZ,AUS,Australia,ccj7,18,19,16,53,7.057,7.141,6.973,1.854,1.461,0.692,0.756,0.225,0.323,1.745
+Western Europe,AUT,Austria,ccj8,2,0,3,5,6.905,6.986,6.824,1.885,1.336,0.696,0.703,0.214,0.305,1.766
+Commonwealth of Independent States,AZE,Azerbaijan,ccj9,2,2,3,7,4.893,5.018,4.768,1.433,0.876,0.496,0.668,0.112,0.199,1.11
+Western Europe,BEL,Belgium,ccj13,3,1,6,10,6.894,6.961,6.827,1.868,1.44,0.69,0.729,0.17,0.311,1.686
+Sub-Saharan Africa,BWA,Botswana,ccj19,1,1,0,2,3.383,3.558,3.209,1.445,0.969,0.241,0.567,0.014,0.082,0.066
+Latin America and Caribbean,BRA,Brazil,ccj20,3,7,10,20,6.272,6.39,6.154,1.43,1.269,0.548,0.685,0.13,0.142,2.068
+Central and Eastern Europe,BGR,Bulgaria,ccj21,3,1,3,7,5.463,5.569,5.357,1.629,1.469,0.567,0.62,0.083,0.006,1.088
+North America and ANZ,CAN,Canada,ccj26,9,7,11,27,6.9,6.984,6.815,1.84,1.459,0.701,0.73,0.23,0.368,1.572
+Latin America and Caribbean,CHL,Chile,ccj30,1,1,0,2,6.36,6.448,6.273,1.616,1.369,0.673,0.651,0.117,0.075,1.858
+East Asia,CHN,China,ccj31,40,27,24,91,5.973,6.061,5.885,1.497,1.239,0.629,0.704,0.132,0.164,1.608
+East Asia,TWN,Chinese Taipei,ccj150,2,0,5,7,6.503,6.597,6.41,1.842,1.346,0.65,0.649,0.068,0.202,1.747
+Latin America and Caribbean,COL,Colombia,ccj32,0,3,1,4,5.695,5.806,5.584,1.437,1.241,0.648,0.644,0.072,0.059,1.596
+Central and Eastern Europe,HRV,Croatia,ccj38,2,2,3,7,5.942,6.047,5.837,1.71,1.445,0.637,0.469,0.064,0.043,1.574
+Western Europe,CYP,Cyprus,ccj40,0,1,0,1,6.068,6.182,5.954,1.794,1.217,0.744,0.529,0.124,0.049,1.611
+Central and Eastern Europe,CZE,Czech Republic,ccj41,3,0,2,5,6.822,6.903,6.741,1.783,1.511,0.638,0.787,0.177,0.068,1.858
+Western Europe,DNK,Denmark,ccj42,2,2,5,9,7.583,7.665,7.5,1.908,1.52,0.699,0.823,0.204,0.548,1.881
+Latin America and Caribbean,DOM,Dominican Republic,ccj44,1,0,2,3,5.823,5.967,5.679,1.517,1.272,0.511,0.73,0.086,0.196,1.512
+Latin America and Caribbean,ECU,Ecuador,ccj45,1,2,2,5,5.725,5.85,5.599,1.315,1.151,0.64,0.606,0.087,0.078,1.846
+Middle East and North Africa,EGY,Egypt,ccj46,1,1,1,3,3.977,4.066,3.887,1.37,0.996,0.488,0.49,0.025,0.259,0.349
+Sub-Saharan Africa,ETH,Ethiopia,ccj50,1,3,0,4,3.861,3.997,3.725,0.792,0.915,0.42,0.441,0.27,0.101,0.923
+Western Europe,FRA,France*,ccj53,16,26,22,64,6.609,6.685,6.533,1.818,1.348,0.727,0.65,0.112,0.281,1.672
+Commonwealth of Independent States,GEO,Georgia,ccj56,3,3,1,7,5.185,5.283,5.087,1.467,0.99,0.524,0.68,0,0.174,1.349
+Western Europe,DEU,Germany,ccj57,12,13,8,33,6.719,6.815,6.622,1.871,1.39,0.702,0.7,0.174,0.368,1.513
+Western Europe,GBR,Great Britain,ccj162,14,22,29,65,6.749,6.833,6.665,1.822,1.326,0.672,0.713,0.267,0.351,1.598
+Western Europe,GRC,Greece,ccj59,1,1,6,8,5.934,6.027,5.84,1.684,1.276,0.696,0.337,0.018,0.093,1.83
+Latin America and Caribbean,GTM,Guatemala,ccj61,1,0,1,2,6.287,6.457,6.117,1.26,1.169,0.467,0.735,0.105,0.078,2.473
+East Asia,HKG,Hong Kong,ccj66,2,0,2,4,5.316,5.403,5.229,1.909,1.184,0.857,0.485,0.147,0.402,0.333
+Central and Eastern Europe,HUN,Hungary,ccj67,6,7,6,19,6.017,6.124,5.91,1.722,1.528,0.596,0.581,0.123,0.067,1.4
+South Asia,IND,India,ccj69,0,1,5,6,4.054,4.123,3.985,1.166,0.653,0.417,0.767,0.174,0.122,0.756
+Southeast Asia,IDN,Indonesia,ccj70,2,0,1,3,5.568,5.67,5.466,1.361,1.184,0.472,0.779,0.399,0.055,1.318
+Middle East and North Africa,IRN,Iran,ccj71,3,6,3,12,5.166,5.283,5.049,1.249,0.996,0.498,0.425,0.141,0.048,1.809
+Western Europe,IRL,Ireland,ccj73,4,0,3,7,7.525,7.618,7.433,1.881,1.617,0.718,0.819,0.258,0.182,2.05
+Western Europe,ISL,Ireland,ccj68,4,0,3,7,7.525,7.618,7.433,1.881,1.617,0.718,0.819,0.258,0.182,2.05
+Middle East and North Africa,ISR,Israel,ccj74,1,5,1,7,7.341,7.405,7.277,1.803,1.513,0.74,0.641,0.153,0.193,2.298
+Western Europe,ITA,Italy,ccj75,12,13,15,40,6.324,6.436,6.211,1.8,1.328,0.72,0.513,0.112,0.074,1.777
+Sub-Saharan Africa,CIV,Ivory Coast,ccj37,0,0,1,1,5.08,5.224,4.936,1.08,0.578,0.288,0.547,0.12,0.164,2.303
+Latin America and Caribbean,JAM,Jamaica,ccj76,1,3,2,6,5.842,6.059,5.624,1.28,1.324,0.567,0.647,0.089,0.028,1.907
+East Asia,JPN,Japan,ccj77,20,12,13,45,6.06,6.144,5.976,1.786,1.354,0.785,0.632,0.023,0.219,1.261
+Middle East and North Africa,JOR,Jordan,ccj78,0,1,0,1,4.186,4.306,4.066,1.262,0.983,0.594,0.593,0.059,0.189,0.504
+Commonwealth of Independent States,KAZ,Kazakhstan,ccj79,1,3,3,7,6.188,6.278,6.097,1.622,1.457,0.556,0.733,0.149,0.12,1.551
+Sub-Saharan Africa,KEN,Kenya,ccj80,4,2,5,11,4.47,4.595,4.344,1.037,0.895,0.353,0.519,0.282,0.069,1.316
+Central and Eastern Europe,OWID_KOS,Kosovo,ccj81,0,1,1,2,6.561,6.667,6.455,1.364,1.277,0.599,0.739,0.254,0.073,2.255
+Commonwealth of Independent States,KGZ,Kyrgyzstan,ccj83,0,2,4,6,5.714,5.795,5.632,1.054,1.477,0.588,0.834,0.225,0.03,1.505
+Central and Eastern Europe,LTU,Lithuania,ccj90,0,2,2,4,6.818,6.896,6.739,1.766,1.454,0.598,0.533,0.044,0.116,2.307
+Southeast Asia,MYS,Malaysia,ccj94,0,0,2,2,5.975,6.078,5.872,1.646,1.143,0.54,0.829,0.226,0.119,1.473
+Latin America and Caribbean,MEX,Mexico,ccj100,0,3,2,5,6.678,6.781,6.575,1.521,1.241,0.544,0.722,0.086,0.127,2.437
+Commonwealth of Independent States,MDA,Moldova,ccj101,0,1,3,4,5.816,5.93,5.702,1.385,1.277,0.542,0.695,0.077,0.044,1.795
+East Asia,MNG,Mongolia,ccj102,0,1,0,1,5.696,5.783,5.61,1.353,1.511,0.4,0.501,0.237,0.055,1.64
+Middle East and North Africa,MAR,Morocco,ccj104,1,0,1,2,4.795,4.912,4.677,1.213,0.471,0.495,0.631,0.042,0.082,1.861
+Western Europe,NLD,Netherlands,ccj109,15,7,12,34,7.319,7.383,7.256,1.901,1.462,0.706,0.725,0.247,0.372,1.906
+North America and ANZ,NZL,New Zealand,ccj110,10,7,3,20,7.029,7.105,6.954,1.81,1.527,0.673,0.746,0.226,0.48,1.567
+Western Europe,NOR,Norway,ccj116,4,1,3,8,7.302,7.389,7.215,1.952,1.517,0.704,0.835,0.224,0.484,1.586
+South Asia,PAK,Pakistan,ccj118,1,0,0,1,4.657,4.779,4.535,1.069,0.6,0.321,0.542,0.144,0.074,1.907
+Latin America and Caribbean,PAN,Panama,ccj120,0,1,0,1,6.9,6.984,6.815,1.84,1.459,0.701,0.73,0.23,0.368,1.572
+Latin America and Caribbean,PER,Peru,ccj122,0,0,1,1,5.841,5.946,5.736,1.371,1.18,0.662,0.615,0.078,0.029,1.907
+Southeast Asia,PHL,Philippines,ccj123,2,0,2,4,6.048,6.166,5.929,1.232,1.146,0.441,0.826,0.099,0.136,2.167
+Central and Eastern Europe,POL,Poland,ccj124,1,4,5,10,6.442,6.513,6.37,1.738,1.417,0.639,0.6,0.081,0.175,1.791
+Western Europe,PRT,Portugal,ccj125,1,2,1,4,6.03,6.134,5.925,1.728,1.368,0.699,0.757,0.047,0.035,1.397
+Central and Eastern Europe,ROU,Romania‡,ccj128,3,4,2,9,6.491,6.592,6.39,1.699,1.236,0.583,0.717,0.041,0.006,2.21
+Central and Eastern Europe,SRB,Serbia,ccj134,3,1,1,5,6.411,6.522,6.3,1.538,1.391,0.585,0.663,0.2,0.101,1.932
+Southeast Asia,SGP,Singapore,ccj136,0,0,1,1,6.523,6.605,6.44,2.118,1.361,0.769,0.743,0.168,0.575,0.788
+Central and Eastern Europe,SVK,Slovakia,ccj137,0,0,1,1,6.743,6.843,6.643,1.786,1.502,0.695,0.789,0.157,0.131,1.683
+Central and Eastern Europe,SVN,Slovenia,ccj138,2,1,0,3,6.743,6.843,6.643,1.786,1.502,0.695,0.789,0.157,0.131,1.683
+Sub-Saharan Africa,ZAF,South Africa,ccj140,1,3,2,6,5.422,5.549,5.295,1.389,1.369,0.322,0.537,0.078,0.034,1.693
+East Asia,KOR,South Korea,ccj141,13,9,10,32,6.058,6.148,5.968,1.815,1.178,0.77,0.555,0.126,0.158,1.456
+Western Europe,ESP,Spain,ccj143,5,4,9,18,6.421,6.502,6.339,1.766,1.471,0.729,0.619,0.119,0.177,1.54
+Western Europe,SWE,Sweden,ccj147,4,4,3,11,7.344,7.422,7.267,1.878,1.501,0.724,0.838,0.221,0.524,1.658
+Western Europe,CHE,Switzerland,ccj148,1,2,5,8,7.06,7.147,6.973,1.97,1.425,0.747,0.759,0.173,0.498,1.488
+Southeast Asia,THA,Thailand,ccj153,1,3,2,6,5.976,6.094,5.858,1.484,1.347,0.62,0.756,0.283,0.024,1.463
+Middle East and North Africa,TUN,Tunisia,ccj156,1,1,1,3,4.422,4.505,4.338,1.306,0.955,0.579,0.254,0.024,0.018,1.285
+Middle East and North Africa,TUR,Turkey,ccj157,0,3,5,8,4.975,5.085,4.866,1.702,1.175,0.631,0.202,0.068,0.115,1.083
+Sub-Saharan Africa,UGA,Uganda,ccj159,1,1,0,2,4.372,4.501,4.243,0.772,1.151,0.373,0.587,0.178,0.054,1.256
+Commonwealth of Independent States,UKR,Ukraine,ccj160,3,5,4,12,4.873,4.988,4.758,1.35,1.315,0.513,0.631,0.285,0.025,0.753
+North America and ANZ,USA,United States‡,ccj163,40,44,42,126,6.725,6.818,6.631,1.939,1.392,0.542,0.586,0.223,0.169,1.873
+Commonwealth of Independent States,UZB,Uzbekistan,ccj165,8,2,3,13,6.195,6.303,6.087,1.212,1.394,0.539,0.835,0.251,0.215,1.749
+Sub-Saharan Africa,ZMB,Zambia,ccj169,0,0,1,1,4.485,4.625,4.344,0.75,0.684,0.33,0.459,0.324,0.048,1.89
