@@ -1,16 +1,26 @@
-# country_happiness_medal
+# The Happiness-Medal Nexus: Exploring Well-being and Olympic Success
+## country_happiness_medal
 
-The dataset provides information on World Happiness Report (WHR) scores, Olympic medals for various countries, and several happiness score components (like GDP, social support, and more). Here's a plan to extract five insightful analyses, especially correlating World Happiness and Olympic success:
+This project started in September 2024 as a passion-driven initiative fueled by a love for data analysis and continuous learning. It leverages open-source datasets, with full attribution given to the original creators. Any modifications made to the data, such as cleansing, wrangling, and normalization, are purely for analytical purposes.
 
-1. Correlation between Total Medals and Happiness Scores: We'll assess if countries with more Olympic medals tend to have higher ladder scores in the World Happiness Report.
+The dataset brings together insights from the World Happiness Report (WHR), Olympic medal counts, and various happiness score components (such as GDP, social support, and more). The aim is to explore five key analyses, particularly focusing on the relationship between national happiness and Olympic success:
 
-2. Impact of Economic Prosperity (Log GDP per Capita) and Medal Success: Investigating whether countries with higher GDP per capita also perform better in the Olympics.
+1. Correlation Between Total Medals and Happiness Scores: Investigate whether countries that win more Olympic medals also tend to have higher happiness ladder scores in the WHR.
 
-3. Social Support and Olympic Performance: Examine if stronger social support (as indicated in the WHR) is related to better Olympic performance.
+2. Economic Prosperity (Log GDP per Capita) and Olympic Performance: Explore if wealthier countries, as indicated by GDP per capita, are more successful in the Olympics.
 
-4. Healthy Life Expectancy vs Medal Counts: We'll look into how life expectancy might correlate with Olympic success, considering that nations with healthier populations may invest more in sports.
+3. Social Support and Olympic Success: Assess whether countries with stronger social support systems, as reflected in the WHR, tend to perform better in the Olympics.
 
-5. Perceptions of Corruption and Medal Success: Analyze if lower perceived corruption correlates with higher medal counts, exploring potential systemic factors influencing sports success.
+4. Healthy Life Expectancy and Medal Counts: Analyze whether nations with higher life expectancies—often a sign of a healthier population—have greater Olympic success.
 
-I'll start by calculating correlations between these variables and provide visual insights on these relationships. Let's begin with a general correlation analysis between the main happiness metrics and Olympic medals. ​
-Country Happiness and Olympic Medal Success
+5. Perceptions of Corruption and Olympic Performance: Examine if lower levels of perceived corruption are linked to higher medal counts, potentially reflecting systemic factors that influence sports achievement.
+
+6. Country and Regional Deep Dives: Provide detailed insights into individual countries and regions, offering a more granular exploration of happiness and sports performance.
+
+This project will continue to evolve over time, with new findings and updates shared periodically.
+
+---
+
+Data Sources:  
+- World Happiness Report: https://worldhappiness.report/  
+- Olympic Medals - Paris 2024: https://olympics.com/en/paris-2024/medals
