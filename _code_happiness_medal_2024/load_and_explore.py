@@ -25,3 +25,51 @@ correlation_matrix = correlation_data.corr()
 
 # Display the correlation matrix to analyze relationships
 correlation_matrix
+
+## correlation scatterplots
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Set the general style for the plots
+sns.set(style="whitegrid")
+
+# Visualization 1: Total Medals vs Ladder Score
+plt.figure(figsize=(8, 6))
+sns.regplot(x='Ladder score', y='total_medals', data=correlation_data, scatter_kws={'s':50}, line_kws={"color":"red"})
+plt.title('Total Medals vs Ladder Score (Happiness)')
+plt.xlabel('Ladder Score (Happiness)')
+plt.ylabel('Total Medals')
+plt.show()
+
+# Visualization 2: Total Medals vs GDP per Capita
+plt.figure(figsize=(8, 6))
+sns.regplot(x='Explained by: Log GDP per capita', y='total_medals', data=correlation_data, scatter_kws={'s':50}, line_kws={"color":"red"})
+plt.title('Total Medals vs GDP per Capita')
+plt.xlabel('Log GDP per Capita')
+plt.ylabel('Total Medals')
+plt.show()
+
+# Visualization 3: Total Medals vs Social Support
+plt.figure(figsize=(8, 6))
+sns.regplot(x='Explained by: Social support', y='total_medals', data=correlation_data, scatter_kws={'s':50}, line_kws={"color":"red"})
+plt.title('Total Medals vs Social Support')
+plt.xlabel('Social Support')
+plt.ylabel('Total Medals')
+plt.show()
+
+# Visualization 4: Total Medals vs Healthy Life Expectancy
+plt.figure(figsize=(8, 6))
+sns.regplot(x='Explained by: Healthy life expectancy', y='total_medals', data=correlation_data, scatter_kws={'s':50}, line_kws={"color":"red"})
+plt.title('Total Medals vs Healthy Life Expectancy')
+plt.xlabel('Healthy Life Expectancy')
+plt.ylabel('Total Medals')
+plt.show()
+
+# Visualization 5: Total Medals vs Perceptions of Corruption
+plt.figure(figsize=(8, 6))
+sns.regplot(x='Explained by: Perceptions of corruption', y='total_medals', data=correlation_data, scatter_kws={'s':50}, line_kws={"color":"red"})
+plt.title('Total Medals vs Perceptions of Corruption')
+plt.xlabel('Perceptions of Corruption')
+plt.ylabel('Total Medals')
+plt.show()
