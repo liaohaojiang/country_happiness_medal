@@ -17,7 +17,7 @@ The dataset brings together insights from the World Happiness Report (WHR), Olym
 
 6. Country and Regional Deep Dives: Provide detailed insights into individual countries and regions, offering a more granular exploration of happiness and sports performance.
 
-##13 September 2024
+## 13 September 2024
 
 See corresponding code in accompanying repo folder
 
