@@ -19,7 +19,7 @@ The dataset brings together insights from the World Happiness Report (WHR), Olym
 
 ## 13 September 2024
 
-See corresponding code in accompanying repo folder
+See corresponding code in accompanying repo folder (https://github.com/dcrefugee/country_happiness_medal/blob/main/_code_happiness_medal_2024/load_and_explore.py)
 
 Key insights based on the correlation matrix:
 
