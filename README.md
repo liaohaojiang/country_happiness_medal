@@ -33,6 +33,22 @@ Key insights based on the correlation matrix:
 
 - Corruption and Medal Success: The correlation between perceived corruption and total medals is 0.21. Countries with lower corruption tend to perform slightly better in the Olympics, but the effect is not particularly strong.
 
+The next chart below is the Total Medals vs Ladder Score (Happiness) chart with select highlighted countries: United States, China, Australia, Norway, and Japan. 
+
+These countries show some interesting trends in both happiness scores and Olympic success.
+
+Expanded Insights: United States:
+
+High medal count and relatively high happiness score. Reflects the balance between economic prosperity, sports infrastructure, and societal well-being contributing to Olympic success. China:
+
+Strong Olympic performance, but the happiness score is lower than the United States. This demonstrates that high medal counts are not always tied to societal happiness but can be the result of targeted sports programs and government investment. Australia:
+
+High happiness score and a substantial number of medals. A good example of how countries with high levels of happiness can also perform well at the Olympics, likely due to strong social systems and investments in sports. Norway:
+
+Small population but high medal count relative to size, combined with one of the highest happiness scores. Indicates that smaller, happier nations with strong health and sports programs can perform disproportionately well in international sports. Japan:
+
+A moderate number of medals and relatively high happiness, though not at the level of the U.S. or China in terms of total medals. Suggests that happiness is a factor, but not the primary one in driving sports success. These insights show that while there is a positive relationship between happiness and Olympic success, it is not the sole determining factor, with economic and structural investments playing a significant role.
+
 
 This project will continue to evolve over time, with new findings and updates shared periodically.
 
