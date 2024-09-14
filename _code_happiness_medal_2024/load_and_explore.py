@@ -315,3 +315,43 @@ plt.show()
 ######
 ######
 
+# Subset data for East Asia, Southeast Asia, and South Asia
+asia_regions = df[df['world_region'].isin(['East Asia', 'Southeast Asia', 'South Asia'])]
+
+# Visualization: Comparison of medals, happiness, GDP, social support, and life expectancy for Asian regions
+plt.figure(figsize=(15, 10))
+
+# Plot each metric for East Asia, Southeast Asia, and South Asia
+for i, metric in enumerate(metrics, 1):
+    plt.subplot(3, 2, i)
+    sns.barplot(x='world_region', y=metric, data=asia_regions, palette="RdYlBu")
+    plt.title(f'{metric} Comparison: East Asia vs Southeast Asia vs South Asia')
+    plt.xlabel('World Region')
+    plt.ylabel(metric)
+
+plt.tight_layout()
+plt.show()
+
+#######
+#######
+
+# Subset data for Sub-Saharan Africa to explore its challenges
+africa_region = df[df['world_region'] == 'Sub-Saharan Africa']
+
+# Visualization: Comparison of medals, happiness, GDP, social support, and life expectancy for Sub-Saharan Africa
+plt.figure(figsize=(15, 8))
+
+# Plot each metric for Sub-Saharan Africa
+for i, metric in enumerate(metrics, 1):
+    plt.subplot(3, 2, i)
+    sns.barplot(x='country', y=metric, data=africa_region, palette="magma")
+    plt.title(f'{metric} for Sub-Saharan Africa')
+    plt.xlabel('Country')
+    plt.ylabel(metric)
+    plt.xticks(rotation=45)
+
+plt.tight_layout()
+plt.show()
+
+#####
+#####
