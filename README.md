@@ -18,6 +18,7 @@ The dataset brings together insights from the World Happiness Report (WHR), Olym
 6. Country and Regional Deep Dives: Provide detailed insights into individual countries and regions, offering a more granular exploration of happiness and sports performance.
 
 *** See the full project and expanded insights over time will appear here: (https://brianfperry.com/landing/country_happiness_medal/)
+
 *** See corresponding code in accompanying repo folder (https://github.com/dcrefugee/country_happiness_medal/blob/main/_code_happiness_medal_2024/load_and_explore.py)
 
 ---
