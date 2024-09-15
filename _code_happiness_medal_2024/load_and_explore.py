@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 # Load the cleaned and production CSV file from the provided GitHub URL
@@ -6,7 +7,10 @@ csv_url = 'https://raw.githubusercontent.com/dcrefugee/country_happiness_medal/m
 # Read the CSV file
 data = pd.read_csv(csv_url)
 
-# Display the first few rows to explore the structure of the data
+# Remove special characters like ‡ and * from the 'country' column
+data['country'] = data['country'].str.replace(r'[‡*]', '', regex=True)
+
+# Display the first few rows to confirm the changes
 print(data.head())
 
 # Load the relevant sheet into a DataFrame
