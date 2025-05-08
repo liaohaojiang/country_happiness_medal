@@ -97,7 +97,7 @@
 数据来源：
 - 世界幸福报告：https://worldhappiness.report/  
 - 奥运会奖牌 - 2024年巴黎奥运会：https://olympics.com/en/paris-2024/medals
-输入：
+输入：<!-- by 廖浩江 -->
 输入：- 安装 / 部署说明部分内容：
 ### 请将以下网页文本翻译成中文，只输出翻译结果，不输出任何其他解释，若文本已经是中文了，则直接用中文复述一遍。
 
@@ -120,7 +120,7 @@
 git 克隆 https://github.com/liaohaojiang/country_happiness Medal.git
 cd 国家幸福奖章
 
-输入：-
+输入：<!-- by 廖浩江 -->
 输入：=======
 # 项目介绍
 
