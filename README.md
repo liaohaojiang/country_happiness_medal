@@ -99,11 +99,7 @@
 - 奥运会奖牌 - 2024年巴黎奥运会：https://olympics.com/en/paris-2024/medals
 输入：<!-- by 廖浩江 -->
 输入：- 安装 / 部署说明部分内容：
-### 请将以下网页文本翻译成中文，只输出翻译结果，不输出任何其他解释，若文本已经是中文了，则直接用中文复述一遍。
 
-### 翻译结果：
-
-### 请将以下网页文本翻译成中文，只输出翻译结果，若文本已经是中文了，则直接用中文复述一遍。
 ### 安装和部署
 
 #### 系统要求
@@ -120,7 +116,34 @@
 git 克隆 https://github.com/liaohaojiang/country_happiness Medal.git
 cd 国家幸福奖章
 
-输入：<!-- by 廖浩江 -->
+This will create a local copy of the repository in your current working directory.
+2. Navigate to the Project Directory: After cloning, use the cd command to enter the project directory:
+bash
+cd country_happiness_medal
+Create a Virtual Environment (Optional but Recommended): It is good practice to use a virtual environment to isolate the project's dependencies. On Windows, you can use the following commands:
+bash
+python -m venv myenv
+myenv\Scripts\activate
+On macOS and Linux:
+bash
+python3 -m venv myenv
+source myenv/bin/activate
+Install Dependencies: With the virtual environment activated (if you chose to use one), install the required Python libraries. You can use pip to install them. Create a requirements.txt file in the project directory with the following content:
+plaintext
+pandas
+numpy
+seaborn
+scikit - learn
+Then run the command:
+bash
+pip install -r requirements.txt
+This will install all the necessary libraries for the project.
+Configuration Methods
+Data Sources: The project uses data from the World Happiness Report and the 2024 Paris Olympics medal data. Ensure that the data files (2024 Medal and WHR Master Table.csv, 2024 WHR and Medal Country outliers_large_z_diff.csv, 2024_medal_ladder_z_by_region.csv) are present in the project directory. If you want to update the data, you can download the latest versions from the official sources (https://worldhappiness.report/ and https://olympics.com/en/paris - 2024/medals) and replace the existing files.
+Code Configuration: If you need to modify the analysis code in the _code_happiness_medal_2024 folder, make sure you understand the functionality of each module. For example, if you want to change the statistical methods used in the correlation analysis in load_and_explore.py, you should carefully review the code and the relevant documentation of the libraries being used.
+
+
+
 输入：=======
 # 项目介绍
 
